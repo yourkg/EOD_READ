@@ -33,5 +33,5 @@ if __name__=="__main__":
                 l+=1
             colorr+=int(255/7)
 
-        cv2.imshow("okk?",img)
+        cv2.imshow("okk",img)
         cv2.waitKey(0)
