@@ -1,2 +1,7 @@
 # EOD_READ
-## new update, 2024.08.12, this is a temp version.
+## 
+**Note**: new update, 2024.08.16, this is a temp version. Unfortunately, only a fragment of data was found in the cache. It has been exposed, but it is still usable.
+
+<p align="center">
+  <img src="https://github.com/yourkg/EOD_READ/edit/main/imge.gif" alt="data draw" width="80%" />
+</p>
