@@ -5,3 +5,4 @@
 <p align="center">
     <a href="https://github.com/yourkg/EOD_READ/edit/main/image.gif"><img src="https://github.com/yourkg/EOD_READ/edit/main/image.gif" alt="data draw" width="80%" />
 </p>
+https://github.com/yourkg/EOD_READ/edit/main/image.gif
